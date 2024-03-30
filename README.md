@@ -1,2 +1,2 @@
 # Number Guessing Game
- This Game is for Practicing
+ This Game is for Fun & Practicing.

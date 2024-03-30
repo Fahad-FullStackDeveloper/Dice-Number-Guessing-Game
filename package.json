@@ -1,0 +1,32 @@
+{
+  "name": "dice-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This Game is for Fun & Practicing",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahad-FullStackDeveloper/Dice-Number-Guessing-Game.git"
+  },
+  "keywords": [
+    "cli-Number",
+    "Guessing",
+    "Game"
+  ],
+  "author": "M.Fahad Khakwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fahad-FullStackDeveloper/Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/Fahad-FullStackDeveloper/Number-Guessing-Game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
